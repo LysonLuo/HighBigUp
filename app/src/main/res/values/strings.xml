@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HighBigUp</string>
+    <string name="title_activity_main">高大上</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
